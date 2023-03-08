@@ -2,7 +2,6 @@
 def cdel():
     return 2
 
-# la
 
 def cins():
     return 2
