@@ -18,3 +18,5 @@ Le fichier tacheB.py contient une amélioration de la fonction de la tache A, ma
 Le fichier tacheC.py contient une amélioration en termes de complexité spatiale de la fonction de calcul de distance de la tache B.
 
 Le fichier tacheD.py permet de trouver l'alignement optimal des 2 séquences, en utilisant la fonction de la tache C et en suivant la méthode diviser pour régner.
+
+Le rapport fourni contient des réponses à des questions théoriques qui devaient être répondues dans le cadre de l'UE, mais le plus important c'est l'analyse de complexité des fonctions du projet.
